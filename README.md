@@ -1,3 +1,17 @@
+Tutoriel en français pour les nuls:
+1. Télécharger le repo ( dossier
+2. Aller dans votre terminal : cd Project, installer python et node (pip install -r requirements.txt=
+3. activate env :DashboardNvidia/venv/Scripts/Activate.ps1
+4. cd backend puis python main.py
+5. cd..
+6. Cd frontend npm run dev
+
+7. Entrer: Localhost:5153 dans votre moteur de recherche si le projet ne s'est pas lancé seul
+
+
+
+
+
 # NVIDIA Economic Dashboard
 
 A professional, real-time economic dashboard for NVIDIA analysis with automatic daily updates, interactive visualizations, and a polished UI reflecting NVIDIA's brand identity.
@@ -195,14 +209,6 @@ DashboardNvidia/
 - Custom scrollbars
 - Loading skeletons with shimmer effect
 
-##  Deployment
-
-### Using Docker (Coming Soon)
-
-```bash
-docker-compose up -d
-```
-
 ### Manual Deployment
 
 1. run frontend:
@@ -227,12 +233,9 @@ python main.py
 - **Yahoo Finance** (via yfinance/alpha vantage) - NVIDIA Stock Data
 
 
-##  Acknowledgments
+##  Ressources
 
 - NVIDIA for brand inspiration
 - FRED, World Bank, and Yahoo Finance for data APIs
-- Open source community for amazing tools
 
 ---
-
-**Note:** API keys are included in the `.env` file for development purposes. For production deployment, use environment variables or a secure secrets management system instead.
