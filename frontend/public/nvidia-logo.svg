@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" fill="currentColor">
+  <!-- Simplified, cleaner NVIDIA logo -->
+  <defs>
+    <style>
+      .nvidia-text { font-family: 'Arial', sans-serif; font-weight: 700; font-size: 80px; }
+    </style>
+  </defs>
+  <text x="20" y="100" class="nvidia-text">NVIDIA</text>
+</svg>
